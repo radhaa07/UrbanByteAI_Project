@@ -110,7 +110,7 @@ This is based on average energy consumption and emission factors for cloud stora
 👉 “We are not just optimizing storage — we are optimizing sustainability.”
 
 ---
-by - Pranita Farsole  
+by - Radha Waghmare and Team
 ---
 
 ## 📄 License
